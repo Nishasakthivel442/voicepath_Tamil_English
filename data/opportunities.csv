@@ -1,0 +1,26 @@
+id,title,skill,type,district,provider,description,eligibility,match_keywords,nsqf_alignment
+1,Automotive Service Technician Training,Two-wheeler repair,Skill Training,Coimbatore,Demo Skill Centre,Hands-on two-wheeler maintenance and service training,Demo eligibility - verify before use,Two-wheeler repair,Demo mapping - verify NSQF pathway
+2,Automotive Electrical Basics,Automotive electrical repair,Skill Training,Chennai,Demo Technical Centre,Basic vehicle electrical troubleshooting,Demo eligibility - verify before use,Automotive electrical repair,Demo mapping - verify NSQF pathway
+3,Tyre Service Technician,Tyre maintenance,Skill Training,Madurai,Demo Skill Centre,Tyre fitting puncture repair and wheel maintenance,Demo eligibility - verify before use,Tyre maintenance,Demo mapping - verify NSQF pathway
+4,Welder Training,Welding,Skill Training,Salem,Demo Skill Centre,Basic welding and fabrication practice,Demo eligibility - verify before use,Welding,Demo mapping - verify NSQF pathway
+5,Agriculture Skills Program,Agricultural work,Skill Training,Thanjavur,Demo Agriculture Centre,Practical farming skills,Demo eligibility - verify before use,Agricultural work,Demo mapping - verify NSQF pathway
+6,Tractor Operator Training,Tractor operation,Skill Training,Thanjavur,Demo Training Centre,Safe tractor operation,Demo eligibility - verify before use,Tractor operation,Demo mapping - verify NSQF pathway
+7,Tailoring and Garment Skills,Tailoring,Skill Training,Coimbatore,Demo Skill Centre,Stitching and garment making,Demo eligibility - verify before use,Tailoring,Demo mapping - verify NSQF pathway
+8,Beautician Skills Program,Beautician,Skill Training,Chennai,Demo Beauty Academy,Beauty care and grooming,Demo eligibility - verify before use,Beautician,Demo mapping - verify NSQF pathway
+9,Hairdressing Skills Program,Hairdressing,Skill Training,Madurai,Demo Beauty Academy,Hair cutting and salon skills,Demo eligibility - verify before use,Hairdressing,Demo mapping - verify NSQF pathway
+10,Cooking and Catering Skills,Cooking / Catering,Skill Training,Chennai,Demo Food Training Centre,Cooking and catering basics,Demo eligibility - verify before use,Cooking / Catering,Demo mapping - verify NSQF pathway
+11,Housekeeping Skills,Housekeeping,Skill Training,Coimbatore,Demo Training Centre,Cleaning and workplace hygiene,Demo eligibility - verify before use,Housekeeping,Demo mapping - verify NSQF pathway
+12,Masonry Skills Program,Masonry,Skill Training,Salem,Demo Skill Centre,Brickwork and construction skills,Demo eligibility - verify before use,Masonry,Demo mapping - verify NSQF pathway
+13,Embroidery Skills,Embroidery,Skill Training,Madurai,Demo Craft Centre,Embroidery practice,Demo eligibility - verify before use,Embroidery,Demo mapping - verify NSQF pathway
+14,Handicrafts Enterprise Skills,Handicrafts,Self Employment,Thanjavur,Demo Craft Centre,Craft production and enterprise basics,Demo eligibility - verify before use,Handicrafts,Demo mapping - verify NSQF pathway
+15,Laundry Services Skills,Laundry,Self Employment,Chennai,Demo Service Centre,Laundry and ironing skills,Demo eligibility - verify before use,Laundry,Demo mapping - verify NSQF pathway
+16,Mobile Phone Repair Technician,Mobile phone repair,Skill Training,Coimbatore,Demo Technical Centre,Smartphone diagnostics and repair,Demo eligibility - verify before use,Mobile phone repair,Demo mapping - verify NSQF pathway
+17,Computer and Data Entry Skills,Computer / Data Entry,Skill Training,Chennai,Demo Digital Centre,Typing spreadsheets and data entry,Demo eligibility - verify before use,Computer / Data Entry,Demo mapping - verify NSQF pathway
+18,Carpentry Skills Program,Carpentry,Skill Training,Salem,Demo Skill Centre,Woodwork and furniture repair,Demo eligibility - verify before use,Carpentry,Demo mapping - verify NSQF pathway
+19,Plumbing Skills Program,Plumbing,Skill Training,Madurai,Demo Skill Centre,Pipe fitting and plumbing,Demo eligibility - verify before use,Plumbing,Demo mapping - verify NSQF pathway
+20,Electrical Installation Skills,Electrical installation,Skill Training,Coimbatore,Demo Technical Centre,Wiring and electrical installation,Demo eligibility - verify before use,Electrical installation,Demo mapping - verify NSQF pathway
+
+21,Engine Service Training,Engine servicing,Skill Training,Coimbatore,Demo Technical Centre,Engine diagnostics and service training,Demo eligibility - verify before use,Engine servicing,Demo mapping - verify NSQF pathway
+22,Metal Fabrication Course,Metal fabrication,Skill Training,Chennai,Demo Skill Centre,Fabrication and metalworking skills,Demo eligibility - verify before use,Metal fabrication,Demo mapping - verify NSQF pathway
+23,Irrigation Training Program,Irrigation,Skill Training,Salem,Demo Agriculture Centre,Water management and irrigation basics,Demo eligibility - verify before use,Irrigation,Demo mapping - verify NSQF pathway
+24,Salon Services Program,Beauty & salon services,Skill Training,Madurai,Demo Beauty Academy,Advanced salon and grooming support,Demo eligibility - verify before use,Beauty & salon services,Demo mapping - verify NSQF pathway
